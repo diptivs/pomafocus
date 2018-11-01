@@ -1,0 +1,6 @@
+[submodule "cucumber"]
+	path = cucumber
+	url = https://github.com/diptivs/cucumber.git
+[submodule "carrot"]
+	path = carrot
+	url = https://github.com/diptivs/carrot.git
