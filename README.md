@@ -47,3 +47,16 @@
 
 
 ## Screenshots:
+![signup](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/signup.png)
+![login](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/login.png)
+![calendar](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/calendarview2.png)
+![addtask](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/addtask.png)
+![addproject](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/addproject.png)
+![timer](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/timer.png)
+![empty](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/emptymanage.png)
+![mange](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/manageview.png)
+![tasks](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/taskview.png)
+![priority](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/priorityview.png)
+![taskview](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/taskseditview.png)
+![bot](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/configuration.png)
+
