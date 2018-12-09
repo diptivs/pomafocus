@@ -45,6 +45,28 @@
 
 ![architecture](https://user-images.githubusercontent.com/32143377/49681242-2aacd700-fa53-11e8-8de0-98339ab3255d.PNG)
 
+## Prerequisites for Set Up:
+[Install NPM](https://www.npmjs.com/get-npm)
+[Download/ Install node](https://nodejs.org/en/download/)
+
+## Frontend Set Up:
+1. **Checkout the source code:**
+  ```bash
+  git clone https://github.com/diptivs/carrot
+  ```
+2. **CD into the directory:**
+  ```bash
+  cd carrot
+  ```
+3. **intall dependencies:**
+  ```bash
+  npm install
+  ```
+4. **run the server:**
+  ```bash
+  npm run start
+  ```
+5. **navigate to http://localhost:3000/:**
 
 ## Screenshots:
  ###### Signup
@@ -71,26 +93,3 @@
 ![taskview](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/taskseditview.png)
  ###### Amazon Lex Bot Integration
 ![bot](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/configuration.png)
-
-## Prerequisites for Set Up:
-[Install NPM](https://www.npmjs.com/get-npm)
-[Download/ Install node](https://nodejs.org/en/download/)
-
-## Frontend Set Up:
-1. **Checkout the source code:**
-  ```bash
-  git clone https://github.com/diptivs/carrot
-  ```
-2. **CD into the directory:**
-  ```bash
-  cd carrot
-  ```
-3. **intall dependencies:**
-  ```bash
-  npm install
-  ```
-4. **run the server:**
-  ```bash
-  npm run start
-  ```
-5. **navigate to http://localhost:3000/:**
