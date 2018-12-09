@@ -47,16 +47,28 @@
 
 
 ## Screenshots:
+ ###### Signup
 ![signup](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/signup.png)
+ ###### Login
 ![login](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/login.png)
+ ###### Calendar
 ![calendar](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/calendarview2.png)
+ ###### Add Tasks
 ![addtask](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/addtask.png)
+ ###### Add Projects
 ![addproject](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/addproject.png)
+ ###### Timer
 ![timer](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/timer.png)
+ ###### No tasks under project view
 ![empty](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/emptymanage.png)
+ ###### Manage Project View
 ![mange](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/manageview.png)
+ ###### Overall Tasks View
 ![tasks](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/taskview.png)
+ ###### Prioritze Tasks View
 ![priority](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/priorityview.png)
+ ###### Task View
 ![taskview](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/taskseditview.png)
+ ###### Amazon Lex Bot Integration
 ![bot](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/configuration.png)
 
