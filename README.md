@@ -72,3 +72,25 @@
  ###### Amazon Lex Bot Integration
 ![bot](https://raw.githubusercontent.com/diptivs/pomafocus/master/screenshots/configuration.png)
 
+## Prerequisites for Set Up:
+[Install NPM](https://www.npmjs.com/get-npm)
+[Download/ Install node](https://nodejs.org/en/download/)
+
+## Frontend Set Up:
+1. **Checkout the source code:**
+  ```bash
+  git clone https://github.com/diptivs/carrot
+  ```
+2. **CD into the directory:**
+  ```bash
+  cd carrot
+  ```
+3. **intall dependencies:**
+  ```bash
+  npm install
+  ```
+4. **run the server:**
+  ```bash
+  npm run start
+  ```
+5. **navigate to http://localhost:3000/:**
