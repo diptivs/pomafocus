@@ -8,9 +8,11 @@
 [PomaFocus](http://pomafocus.com/) is a highly intelligble fully functioning task management service. It builds upon the ideas [pomodoro technique](https://francescocirillo.com/pages/pomodoro-technique). Through PomaFocus, not only you create projects/ tasks, but we schedule your day/ week out for you! That way you can be more productive and focus on the tasks at hand.
 
  ## Table of content
- - [Project Logistics](#project-logistics)
+- [Project Logistics](#project-logistics)
 - [Features](#features)
-
+- [Prerequisites for Set Up](#prerequisites-for-set-up)
+- [Frontend Set Up](#frontend-set-ip)
+- [Screenshots](#screenshots)
  ## Project Logistics
  
  ###### University Name
@@ -47,6 +49,7 @@
 
 ## Prerequisites for Set Up:
 [Install NPM](https://www.npmjs.com/get-npm)
+
 [Download/ Install node](https://nodejs.org/en/download/)
 
 ## Frontend Set Up:
