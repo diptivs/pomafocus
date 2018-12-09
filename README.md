@@ -11,7 +11,8 @@
 - [Project Logistics](#project-logistics)
 - [Features](#features)
 - [Prerequisites for Set Up](#prerequisites-for-set-up)
-- [Frontend Set Up](#frontend-set-ip)
+- [Backend Set Up](#backend-set-up)
+- [Frontend Set Up](#frontend-set-up)
 - [Screenshots](#screenshots)
  ## Project Logistics
 
@@ -52,12 +53,47 @@
 
 [Download/ Install node](https://nodejs.org/en/download/)
 
+
+1. **Configure your machine using AWS admin account:**
+  ```bash
+  aws configure
+  ```
+2. **Create an S3 bucket to upload the app**
+3. **Configure CloudFront to serve out app by using Static S3 website as origin**
+4. **Point the domain with Route 53 to CloudFront**
+5. **Create certificate using certificate manager and point to that on cloudfront to serve app over HTTPS**
+
+## Backend Set Up:
+1. **checkout the source code:**
+  ```bash
+  git clone https://github.com/diptivs/cucumber
+  ```
+2. **cd into the directory:**
+  ```bash
+  cd cucumber
+  ```
+3. **intall dependencies:**
+  ```bash
+  npm install
+  ```
+  ```bash
+  npm install -g serverless
+  ```
+4. **test APIs locally:**
+  ```bash
+  serverless invoke local --function createUser --path mocks/users/createUser-event.json
+  ```
+5. **deploy:**
+  ```bash
+  serverless deploy --stage $DEPLOYMENT_STAGE
+  ```
+
 ## Frontend Set Up:
-1. **Checkout the source code:**
+1. **checkout the source code:**
   ```bash
   git clone https://github.com/diptivs/carrot
   ```
-2. **CD into the directory:**
+2. **cd into the directory:**
   ```bash
   cd carrot
   ```
